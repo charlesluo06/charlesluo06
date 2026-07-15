@@ -13,11 +13,10 @@
 
 ### About Me
 
-I lead a team of developers building production web apps for ACM at UC Riverside, and I split my free time between full-stack projects and cybersecurity/CTFs. Currently prepping for the **DARPA INGOTS hackathon**.
+I lead a team of developers building production web apps for ACM at UC Riverside, and I split my free time between full-stack projects.
 
-- 🔭 Leading engineering for **ACM @ UCR**, shipping production sites for VSA and AGSM
-- 🔐 Into cybersecurity and CTF competitions
-- 🧠 Grinding NeetCode 150 for interview prep (C++ → Python)
+- 🔭 Leading engineering for **ACM @ UCR**, shipping production sites for VSA,Cyber, and UBI.
+- 🧠 Grinding NeetCode 150 for interview prep
 - 🛠️ Secretary, **Theta Tau** engineering fraternity | Contributor, **University Blood Initiative**
 
 ---
