@@ -103,26 +103,3 @@ I lead a team of developers building production web apps for **ACM at UC Riversi
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=charlesluo06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesluo06&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesluo06&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⭐️ From [charlesluo06](https://github.com/charlesluo06)
-
-</div>
