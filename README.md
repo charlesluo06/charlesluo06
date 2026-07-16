@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Charles 👋</h1>
 
 <p align="center">
-  Lead Software Engineer @ ACM UC Riverside · Security & Systems Enthusiast
+  Lead Software Engineer @ ACM UC Riverside
 </p>
 
 <p align="center">
