@@ -71,7 +71,7 @@ I lead a team of developers building production web apps for **ACM at UC Riversi
       <img src="https://img.shields.io/badge/pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <br/><br/>
       <!-- Replace with an actual screenshot/GIF: ![Minecraft Assistant Demo](./assets/minecraft-demo.gif) -->
-      <a href="https://github.com/charlesluo06/YOUR-REPO-NAME"><img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge" /></a>
+      <a href="https://github.com/charlesluo06/minecraftCraftingAssistant"><img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge" /></a>
     </td>
     <td width="50%">
       <h3>🧋 FindMyDrink</h3>
@@ -81,7 +81,7 @@ I lead a team of developers building production web apps for **ACM at UC Riversi
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br/><br/>
       <!-- Replace with an actual screenshot/GIF: ![FindMyDrink Demo](./assets/finddrink-demo.gif) -->
-      <a href="https://github.com/charlesluo06/YOUR-REPO-NAME"><img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge" /></a>
+      <a href="https://github.com/charlesluo06/FindMyDrink"><img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
