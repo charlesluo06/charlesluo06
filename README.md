@@ -13,7 +13,7 @@
 
 ### About Me
 
-I lead a team of developers building production web apps for ACM at UC Riverside, and I split my free time between full-stack projects.
+I lead a team of developers building production web apps for ACM at UC Riverside, and I build and ship full-stack projects.
 
 - 🔭 Leading engineering for **ACM @ UCR**, shipping production sites for VSA,Cyber, and UBI.
 - 🧠 Grinding NeetCode 150 for interview prep
